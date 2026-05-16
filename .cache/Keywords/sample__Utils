@@ -1,5 +1,5 @@
 {
-  "keywordFileContentHash": "C7AD74DC10D3226EED19A63F511F4DAE",
+  "keywordFileContentHash": "FD602863546913647007FDD0D7982DD0",
   "keywordClasses": [
     {
       "name": "sample.Utils",
@@ -20,8 +20,7 @@
                 "errorOnParsing": false
               }
             }
-          ],
-          "javadoc": "/**\n\t * Click on select2 text box.\n\t *\n\t * @param to The select2 box object that tagged as \"select\" in the document.\n\t */"
+          ]
         },
         {
           "name": "findContainer",
@@ -39,8 +38,7 @@
                 "errorOnParsing": false
               }
             }
-          ],
-          "javadoc": "/**\n\t * Find the container class after the select element.\n\t *\n\t * @param to The select2 box object that tagged as \"select\" in the document.\n\t * @return The WebElement that seen as container class after the select element.\n\t */"
+          ]
         },
         {
           "name": "selectResult",
@@ -71,8 +69,7 @@
                 "errorOnParsing": false
               }
             }
-          ],
-          "javadoc": "/**\n\t * Select the result after filling text search to select2 text box.\n\t *\n\t * @param option The label of option need to select.\n\t * @param subContainerOpenClass The Xpath string of the container class.\n\t */"
+          ]
         },
         {
           "name": "enterText",
@@ -90,11 +87,10 @@
                 "errorOnParsing": false
               }
             }
-          ],
-          "javadoc": "/**\n\t * Enter text search to the select2 text box.\n\t *\n\t * @param option The label of option need to search.\n\t * @return The Xpath string of the container class.\n\t */"
+          ]
         }
       ]
     }
   ],
-  "javadocParsed": true
+  "javadocParsed": false
 }

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>svg</name>
+   <tag></tag>
+   <elementGuidId>49c0263e-594e-4ef8-8965-a4b51062ed69</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='View Subscription Status'])[1]/following::*[name()='svg'][1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.relative.mx-2 > svg</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>svg</value>
+      <webElementGuid>6dd7a9bd-80a1-4269-b191-19b4a435ce39</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>width</name>
+      <type>Main</type>
+      <value>20</value>
+      <webElementGuid>ddb650a5-d836-40fa-9c94-92db314dc73b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>height</name>
+      <type>Main</type>
+      <value>20</value>
+      <webElementGuid>f52e0f83-4d01-49e1-a834-8a3cb2cda8c9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>viewBox</name>
+      <type>Main</type>
+      <value>0 0 20 20</value>
+      <webElementGuid>b7dc6e92-fa8a-471d-bd1c-0fada93ed970</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xmlns</name>
+      <type>Main</type>
+      <value>http://www.w3.org/2000/svg</value>
+      <webElementGuid>228b75eb-d447-4e76-bdd6-64a8410ec868</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;scroll-smooth&quot;]/body[1]/div[@class=&quot;headers shadow-sm fixed w-full top-0 transition-[margin-top] duration-200 ease-in-out z-[100]&quot;]/div[@class=&quot;header z-[101]&quot;]/div[@class=&quot;header-container relative h-[52px] lg:h-[63px] bg-white bg-home-header&quot;]/div[@class=&quot;container flex justify-between mx-auto items-center relative lg:max-w-[1360px] px-4 lg:px-10 h-full&quot;]/div[@class=&quot;flex flex-wrap h-full w-full&quot;]/div[@class=&quot;basis-1/2 md:basis-2/3 lg:basis-3/4&quot;]/div[@class=&quot;flex items-center h-full justify-end&quot;]/a[@class=&quot;relative mx-2&quot;]/svg[1]</value>
+      <webElementGuid>6612e5cd-f735-4057-8263-06d215a1f5b3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='View Subscription Status'])[1]/following::*[name()='svg'][1]</value>
+      <webElementGuid>d5f6f4e6-bb83-4c73-8a01-4cd1d5b29f62</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='FAQ'])[1]/following::*[name()='svg'][1]</value>
+      <webElementGuid>ded54221-ba3a-4d86-9214-ee035382cd26</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Subscription'])[3]/preceding::*[name()='svg'][1]</value>
+      <webElementGuid>7c643d6d-91c2-4132-a660-806ca6c5e9fa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Copy link'])[1]/preceding::*[name()='svg'][5]</value>
+      <webElementGuid>40870c98-c1b2-4d6b-a7d8-e59f5c15e9c1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -3,10 +3,13 @@
    <description></description>
    <name>shopping-cart-tests</name>
    <tag></tag>
-   <UUID>052f4412-8190-4f05-b35a-5dd184aacaff</UUID>
+   <UUID>0f2d66c4-1181-4e95-9f60-562fe110f0ac</UUID>
+   <freeLicense>true</freeLicense>
    <migratedVersion>5.9.0</migratedVersion>
+   <modifiedEdition>ENTERPRISE</modifiedEdition>
+   <modifiedVersion>11.1.0</modifiedVersion>
    <pageLoadTimeout>0</pageLoadTimeout>
-   <projectFileLocation>C:\Users\lieuhuynh\Katalon Studio\Shopping Cart Testing\shopping-cart-tests.prj</projectFileLocation>
+   <projectFileLocation>C:\Users\teuku\Katalon Studio\portfolio-modena-subscription\shopping-cart-tests.prj</projectFileLocation>
    <sourceContent>
       <sourceFolderList>
          <sourceFolderConfiguration>
@@ -25,5 +28,6 @@
          </systemFolderConfiguration>
       </systemFolderList>
    </sourceContent>
+   <timeStampInProperties>true</timeStampInProperties>
    <type>WEBUI</type>
 </Project>
