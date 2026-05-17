@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC-05 API Integration - Verify Cart via API</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>e5132ce6-d863-473b-be4f-a4132f94ce9e</testCaseGuid>
+</TestCaseEntity>
