@@ -6,4 +6,69 @@
    <comment></comment>
    <recordOption>OTHER</recordOption>
    <testCaseGuid>1052732d-01d2-4ae7-9d39-5bc674c783e3</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>b019a680-26e1-4006-a39e-9020022cc3d6</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>a68841b6-39a0-48fc-923b-2d2a8d18b38d</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>9707d03b-7c5d-4145-a2e8-201525a0ebd5</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>f4a3f7ed-61f4-46f6-96a1-9c10692f3077</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>208188db-0b5f-43b5-841f-2fa829b362d8</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'&quot;https://www.modena.com/seamless-go-subscription/id_en&quot;\r\n'</defaultValue>
+      <description></description>
+      <id>b019a680-26e1-4006-a39e-9020022cc3d6</id>
+      <masked>false</masked>
+      <name>baseUrl</name>
+   </variable>
+   <variable>
+      <defaultValue>30</defaultValue>
+      <description></description>
+      <id>a68841b6-39a0-48fc-923b-2d2a8d18b38d</id>
+      <masked>false</masked>
+      <name>timeout</name>
+   </variable>
+   <variable>
+      <defaultValue>'&quot;RO 5110 TEWH&quot;\r\n'</defaultValue>
+      <description></description>
+      <id>9707d03b-7c5d-4145-a2e8-201525a0ebd5</id>
+      <masked>false</masked>
+      <name>productName</name>
+   </variable>
+   <variable>
+      <defaultValue>'&quot;TC-03 berhasil: Product ditemukan di halaman cart&quot;\r\n'</defaultValue>
+      <description></description>
+      <id>f4a3f7ed-61f4-46f6-96a1-9c10692f3077</id>
+      <masked>false</masked>
+      <name>successMessage</name>
+   </variable>
+   <variable>
+      <defaultValue>'true'</defaultValue>
+      <description></description>
+      <id>208188db-0b5f-43b5-841f-2fa829b362d8</id>
+      <masked>false</masked>
+      <name>shouldCloseBrowser</name>
+   </variable>
 </TestCaseEntity>

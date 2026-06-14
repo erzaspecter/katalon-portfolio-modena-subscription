@@ -7,8 +7,8 @@ import internal.GlobalVariable as GlobalVariable
 import com.kms.katalon.core.model.FailureHandling as FailureHandling  // ← TAMBAHKAN INI!
 
 // 1. Buka browser
-WebUI.openBrowser('https://www.modena.com/seamless-go-subscription/id_en')
-WebUI.waitForPageLoad(30)
+WebUI.openBrowser(baseUrl)
+WebUI.waitForPageLoad(timeout)
 
 // 2. Ambil data dari Test Data
 def products = findTestData('Data Files/ProductLists')

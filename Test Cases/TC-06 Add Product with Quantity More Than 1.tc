@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC-06 Add Product with Quantity More Than 1</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>30658412-60ea-4af7-9ac6-e2ccd786f41a</testCaseGuid>
+</TestCaseEntity>

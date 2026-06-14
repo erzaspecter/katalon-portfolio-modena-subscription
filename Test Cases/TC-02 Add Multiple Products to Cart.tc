@@ -6,4 +6,30 @@
    <comment></comment>
    <recordOption>OTHER</recordOption>
    <testCaseGuid>2240a4f2-d04e-4aac-807a-41eeb6d25614</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>5c3601a0-0643-42fe-a516-b5774e93d269</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>3e1b06e5-87a4-4d71-891a-a1596a78a593</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'https://www.modena.com/seamless-go-subscription/id_en'</defaultValue>
+      <description></description>
+      <id>5c3601a0-0643-42fe-a516-b5774e93d269</id>
+      <masked>false</masked>
+      <name>baseUrl</name>
+   </variable>
+   <variable>
+      <defaultValue>30</defaultValue>
+      <description></description>
+      <id>3e1b06e5-87a4-4d71-891a-a1596a78a593</id>
+      <masked>false</masked>
+      <name>timeout</name>
+   </variable>
 </TestCaseEntity>
